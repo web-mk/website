@@ -1,0 +1,41 @@
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>WebMK.co</title>
+
+	<meta name='description' content='Simple and clean HTML coming soon / under construction page'/>
+
+	<meta name='keywords' content='coming soon, html, html5, css3, css, under construction'/>	
+
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen, projection" />
+
+	<link href='http://fonts.googleapis.com/css?family=Coustard' rel='stylesheet' type='text/css'>
+
+
+
+</head>
+
+<body>
+
+	<div id="wrapper">
+
+		<h1>Sorry</h1>
+
+		<h2>Authorization Required</h2>
+
+		<p>Click here to be redirected to our <a href="http://webmk.co">homepage</a></p>
+
+		
+
+	</div>
+
+</body>
+
+</html>
